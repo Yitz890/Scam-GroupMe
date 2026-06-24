@@ -1,2 +1,1 @@
-# Scam-GroupMe
-Simply able to scam every group your added to without consent
+A Google Apps Script-based agent utilizing non-deterministic logic to generate maximum conversational entropy. Features include: Glitch text rendering, simulated system crashes, and automated nonsense generation. Usage intended for educational testing of chat resilience. ⚙️🔧
